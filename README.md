@@ -1,3 +1,3 @@
-Learning and writing java codes and hopefully soon projects here :)
+Learning and writing java codes and projects here :)
 
 Feel free to join in.
