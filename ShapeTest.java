@@ -1,4 +1,4 @@
-class Shape {
+abstract class Shape {
 
 private int length, width;
 
